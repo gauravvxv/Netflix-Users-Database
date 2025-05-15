@@ -33,7 +33,7 @@ The dataset contains the following 8 columns and 25000 rows:
 
 ## 📊 Key Visualizations
 
-### 🔸 Number of users per Subscription_Type
+### 🔸 Number of users per Subscription_Type 
 ![Subscription Type](Charts/subscription_total_users.png)
 
 ---
